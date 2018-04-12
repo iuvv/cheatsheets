@@ -80,8 +80,10 @@ Here are some badges for open source projects.
     Authored and maintained by Rico Sta. Cruz with help from contributors ([list][contributors]).
 
     > [ricostacruz.com](http://ricostacruz.com) &nbsp;&middot;&nbsp;
-    > GitHub [@rstacruz](https://github.com/rstacruz) &nbsp;&middot;&nbsp;
-    > Twitter [@rstacruz](https://twitter.com/rstacruz)
+    <!-- > GitHub [@rstacruz](https://github.com/rstacruz) &nbsp;&middot;&nbsp; -->
+    > GitHub [@finsoftinfo](https://github.com/finsoftinfo) &nbsp;&middot;&nbsp;
+    <!-- > Twitter [@rstacruz](https://twitter.com/rstacruz) -->
+    > Twitter [@rstacruz](https://twitter.com/tomtsang1987)
 
     [MIT]: http://mit-license.org/
     [contributors]: http://github.com/rstacruz/nprogress/contributors
