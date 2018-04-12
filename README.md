@@ -8,10 +8,11 @@
 <br>
 
 <p align='center'>
-<a href='https://devhints.io/'><img src='_docs/images/screenshot.png' width=600></a>
+<!-- <a href='https://devhints.io/'><img src='_docs/images/screenshot.png' width=600></a> -->
+<a href='https://blog.finsoft.info/cheatsheets/'><img src='_docs/images/screenshot.png' width=600></a>
 <br>
 <!-- ✨ <b><a href='https://devhints.io/'>devhints.io</a></b> ✨ -->
-✨ <b><a href='https://blog.finsoft.info/cheatsheets/'>blog.finsoft.info/cheatsheets</a></b> ✨
+✨ <b><a href='https://blog.finsoft.info/cheatsheets/'>tom's cheatsheets</a></b> ✨
 </p>
 
 <br>
