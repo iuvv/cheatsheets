@@ -1,11 +1,11 @@
 home:
-  title: "finsoftinfo's cheatsheets"
+  title: "tom's cheatsheets"
   tagline: |
-    Hey! I'm <a href='https://blog.finsoft.info'>@finsoftinfo</a> and this is a modest collection of cheatsheets I've written.
+    Hey! I'm <a href='https://blog.finsoft.info'>@tom</a> and this is a modest collection of cheatsheets I've written.
 
 top_nav:
   # title: Devhints.io
-  title: finsoftinfo-cheatsheets
+  title: tom-cheatsheets
   edit: Edit
   edit_on_github: Edit this page on GitHub
 
@@ -30,7 +30,7 @@ related_posts_group:
 search_form:
   default_placeholder: Search SIZE+ cheatsheets
   home_placeholder: Search...
-  prefix: devhints.io
+  prefix: blog.finsoft.info 
 
 comments_area:
   suffix: for this cheatsheet.
@@ -46,6 +46,6 @@ announcement:
   title: |
     New: We're on Twitter ♥️
   body: |
-    Follow [@finsoftinfo](https://twitter.com/tomtsang1987) on Twitter for daily "today I learned" snippets!
+    Follow [@tom](https://twitter.com/tomtsang1987) on Twitter for daily "today I learned" snippets!
 
     [![](https://img.shields.io/twitter/follow/devhints.svg?style=social&label=@devhints)](https://twitter.com/devhints)
