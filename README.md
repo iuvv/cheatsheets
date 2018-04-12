@@ -1,5 +1,5 @@
 <!-- # Devhints -->
-# finsoftinfo
+# tom
 
 > TL;DR for developer documentation - a ridiculous collection of cheatsheets
 
@@ -19,3 +19,10 @@
 ---
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for developer notes.
+
+---
+
+# ref
+
+- [devhints.io](https://devhints.io) from [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+- [Jimmy's cheatsheet for developers](https://jimmysong.io/cheatsheets) from [rootsongjc/cheatsheets](https://github.com/rootsongjc/cheatsheets)
