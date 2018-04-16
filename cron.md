@@ -41,6 +41,13 @@ Min  Hour Day  Mon  Weekday
 | ---            | ---                   |
 | `@reboot`      | every reboot          |
 
+### Example2
+
+```bash
+0	2	*	*	*	sudo yum update -y >>/home/tom/log/crontab/update.log
+30	22	*	*	1-5	cd /home/jlch/registry/tramitter_client && node ./index.js >> index.js.log 2>&1
+```
+
 ### Crontab
 
 ```bash
