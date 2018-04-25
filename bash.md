@@ -634,6 +634,14 @@ read -n 1 ans    # Just one character
 
 See [Special parameters](http://wiki.bash-hackers.org/syntax/shellvars#special_parameters_and_shell_variables).
 
+### basename
+
+basename取本shell的文件名
+
+```bash
+/home/ope3/.anacon2/bin/python run_today.py  >> ~/log/`basename $0`.log  2>&1
+```
+
 ## Also see
 {: .-one-column}
 
