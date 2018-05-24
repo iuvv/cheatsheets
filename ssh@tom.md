@@ -4,7 +4,7 @@ category: CLI
 layout: 2017/sheet
 ---
 
-## ssh -i 连接
+### ssh -i 连接
 
 首先确保文件权限400(否则连接不了) 
 
