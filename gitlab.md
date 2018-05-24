@@ -1,6 +1,7 @@
 ---
 title: Gitlab
 category: CLI
+layout: 2017/sheet
 ---
 
 
