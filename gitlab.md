@@ -1,6 +1,6 @@
 ---
 title: Gitlab
-category: Gitlab
+category: CLI
 ---
 
 
